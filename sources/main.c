@@ -4,7 +4,7 @@
 int main(char** argc){
 	
 	int end = 0;
-	araToRom(540);
+	
 	
 	do{
 		int e1 = 0;
